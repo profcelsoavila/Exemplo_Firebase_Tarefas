@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "453300020503",
+    "firebase_url": "https://crud-firebase-9d881-default-rtdb.firebaseio.com",
+    "project_id": "crud-firebase-9d881",
+    "storage_bucket": "crud-firebase-9d881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453300020503:android:a38c34d4e7642f37970352",
+        "android_client_info": {
+          "package_name": "com.example.app_firebase_alunos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhwhLDmIXtivf0W0_T27CnWADPftU_lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453300020503:android:fce94d0b5d777e8d970352",
+        "android_client_info": {
+          "package_name": "com.example.app_tarefas_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhwhLDmIXtivf0W0_T27CnWADPftU_lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
